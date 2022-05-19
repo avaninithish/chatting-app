@@ -1,6 +1,6 @@
 # chatting-app
 A real time chatting application
-Created as as part of skill test from Mavenai Technology Pvt. Ltd./Dezzex Technology
+
 
 The code contains
 
